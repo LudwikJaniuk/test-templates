@@ -19,7 +19,7 @@ Is it urgent? Any relevant dates to refer to? Does other work depend on it?
 **Contact person**
 Who can answer questions about the implementation?
 
-In addition, the following always apply:
+In addition to the Definition of Done, the following always apply:
  - Tests, building, and linting passes
  - No new warnings are introduced
  - User experience is not reduced
