@@ -1,7 +1,7 @@
 ---
 name: Task
 about: An improvement to be made to Klimatkollen
-title: ''
+title: Short summary of the task
 labels: ''
 assignees: ''
 
@@ -10,16 +10,18 @@ assignees: ''
 **Describe the task**
 What would you like to be done?
 
+**Definition of Done**
+Clarify how one can tell that the issue is completed. What behavior is in place / how does the code or data look like?
+
 **When should it be done?**
-Is it urgent? Does other work depend on it?
+Is it urgent? Any relevant dates to refer to? Does other work depend on it?
 
 **Contact person**
 Who can answer questions about the implementation?
 
-**Definition of Done**
-At what point can a solution to this issue be merged?
-
 In addition, the following always apply:
- - Tests and linting pass, the code builds and no new warnings are introduced
+ - Tests, building, and linting passes
+ - No new warnings are introduced
  - User experience is not reduced
  - Code is well formatted and readable
+See doc/contributing.md.
